@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387379776247",
+    "project_id": "applicationbancairehepl-22483",
+    "storage_bucket": "applicationbancairehepl-22483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387379776247:android:fa06fda084b1381fec61f2",
+        "android_client_info": {
+          "package_name": "com.hepl.examen_dam_info_debarsywilliamchapelierbasile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387379776247-gqulhqnq6d6kj3105qh02u6nkofn5imv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDia2h2wn1mVebC6viAHq4Tue6bzPhcD1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387379776247-gqulhqnq6d6kj3105qh02u6nkofn5imv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
